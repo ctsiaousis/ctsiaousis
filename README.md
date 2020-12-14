@@ -13,7 +13,11 @@
  
 - ⚡ Fun fact: ...
   * If the tech stuff fails, you can find me as a sailor in Bora-Bora.
-  
+
+
+- 📫 How to reach me: ...
+  * [email](mailto:tsiao98@gmail.com?subject=[GitHub]%20YourSubject)
+
 - Want more?
  Boring stuff [here](./more.md)
 <!--
