@@ -20,6 +20,7 @@
 - 🏭 Frameworks I am familiar with
   * *OpenCV*
   * *OpenCL*
+  * *OpenSSL*
   * *Qt*
   * *Torch*
   * *Tensorflow*
