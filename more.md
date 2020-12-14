@@ -23,6 +23,7 @@
   * *OpenCL*
   * *OpenSSL*
   * *Qt*
+  * *Jupyter-notebook*
   * *Torch*
   * *Tensorflow*
   * *Keras*
