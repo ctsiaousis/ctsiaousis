@@ -13,6 +13,9 @@
  
 - ⚡ Fun fact: ...
   * If the tech stuff fails, you can find me as a sailor in Bora-Bora.
+  
+- Want more?
+ Boring stuff [here](./more.md)
 <!--
 **ctsiaousis/ctsiaousis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
