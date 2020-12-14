@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...
+* Image processing projects
+* Finishing university
+
+- 🌱 I’m currently learning ...
+Everything. Can't stop. Won't stop.
+
+- 💬 Ask me about ...
+* Linux, FOSS, and GNU philosophy
+* Problem solving
+
+- ⚡ Fun fact: ...
+* If that tech stuff fails, you can find me as a sailor in Bora-Bora.
 <!--
 **ctsiaousis/ctsiaousis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
