@@ -4,6 +4,7 @@
   * *sh*
   * *Python*
   * *Java*
+  * *Processing*
   * *JavaScript*
   * *Matlab*
   * *\*SQL*
@@ -27,6 +28,9 @@
   * *Keras*
   * *Numpy*
   * *Matplotlib*
+  * *NodeJS*
+  * *express*
+  * *p5.js*
 
 
 - 🖥️ Applications I am familiar with
