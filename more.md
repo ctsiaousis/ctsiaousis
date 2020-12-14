@@ -21,9 +21,23 @@
   * *OpenCV*
   * *OpenCL*
   * *Qt*
-  * *Docker*
   * *Torch*
   * *Tensorflow*
   * *Keras*
   * *Numpy*
   * *Matplotlib*
+
+
+- 🖥️ Applications I am familiar with
+  * *Docker*
+  * *Gimp*
+  * *ImageJ*
+  * *ffmpeg*
+  * *Blender*
+  * *GNU toolchain*
+  * *GNU coreutils*
+  * *Vim*
+  * IDEs
+    * QtCreator
+    * VScodium
+    * Eclipse
