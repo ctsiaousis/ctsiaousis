@@ -23,7 +23,6 @@
   * *OpenCL*
   * *OpenSSL*
   * *Qt*
-  * *Jupyter-notebook*
   * *Torch*
   * *Tensorflow*
   * *Keras*
@@ -36,6 +35,7 @@
 
 - 🖥️ Applications I am familiar with
   * *Docker*
+  * *Jupyter-notebook*
   * *Gimp*
   * *ImageJ*
   * *ffmpeg*
