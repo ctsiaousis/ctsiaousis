@@ -11,7 +11,7 @@
   * *Go(lang)*
   * *x86-Assembly*
   * *VHDL*
-  * Content Creation Languages
+  * <ins>Content Creation Languages</ins>
     * *HTML*
     * *CSS*
     * *LaTeX*
@@ -37,7 +37,7 @@
   * *GNU toolchain*
   * *GNU coreutils*
   * *Vim*
-  * IDEs
+  * <ins>IDEs</ins>
     * QtCreator
     * VScodium
     * Eclipse
