@@ -2,17 +2,23 @@
 
 - 🔭 I’m currently working on ...
   * Image processing projects
-  * Finishing university
+  * System and Data Managment lib-development
+  * Graduating university
 
 - 🌱 I’m currently learning ...
   * Everything. Can't stop. Won't stop.
+  * Being human and grateful
 
 - 💬 Ask me about ...
   * Linux, FOSS, and GNU philosophy
   * Problem solving
+  * Networking and Distributed Systems
+  * Concurrency
+  * Test-Driven development
  
 - ⚡ Fun fact: ...
   * If the tech stuff fails, you can find me as a sailor in Bora-Bora.
+  * If you have a sailboat to giveaway, I'm your guy
 
 
 - 📫 How to reach me: ...
