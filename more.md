@@ -25,6 +25,7 @@
   * *Qt*
   * *Torch*
   * *Tensorflow*
+  * *Qiskit*
   * *Keras*
   * *Numpy*
   * *Matplotlib*
