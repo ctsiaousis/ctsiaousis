@@ -1,28 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-  * Image processing projects
-  * System and Data Managment lib-development
-  * Graduating university
 
-- 🌱 I’m currently learning ...
-  * Everything. Can't stop. Won't stop.
-  * Being human and grateful
-
-- 💬 Ask me about ...
-  * Linux, FOSS, and GNU philosophy
-  * Problem solving
-  * Networking and Distributed Systems
-  * Concurrency
-  * Test-Driven development
- 
-- ⚡ Fun fact: ...
-  * If the tech stuff fails, you can find me as a sailor in Bora-Bora.
-  * If you have a sailboat to giveaway, I'm your guy
+<p align="center">
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ctsiaousis&&show_icons=true&title_color=c9d1d2&icon_color=00ffff&text_color=c9d1d2&bg_color=353545" />
+</p>
 
 
-- 📫 How to reach me: ...
-  * [email](mailto:tsiao98@gmail.com?subject=[GitHub]%20YourSubject)
+- 📫 [email](mailto:tsiao98@gmail.com?subject=[GitHub]%20YourSubject)
 
 - 🤔 Have a look at my [gists](https://gist.github.com/ctsiaousis)
 
