@@ -1,10 +1,9 @@
-### Hi there 👋
-
 
 <p align="center">
   <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ctsiaousis&&show_icons=true&title_color=c9d1d2&icon_color=00ffff&text_color=c9d1d2&bg_color=353545" />
 </p>
 
+### Hi there 👋
 
 - 📫 [email](mailto:tsiao98@gmail.com?subject=[GitHub]%20YourSubject)
 
