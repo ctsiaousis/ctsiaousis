@@ -3,7 +3,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ctsiaousis/)
 
-- 📫 [email](mailto:tsiao98@gmail.com?subject=[GitHub]%20YourSubject)
+- 📫 [email](mailto:ctsiaous@gmail.com?subject=[GitHub]%20YourSubject)
 
 - 🤔 Have a look at my [gists](https://gist.github.com/ctsiaousis)
 
